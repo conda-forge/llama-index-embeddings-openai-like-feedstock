@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.0"
+  version: "0.5.0"
 
 package:
   name: llama-index-embeddings-openai-like
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/llama-index-embeddings-openai-like/llama_index_embeddings_openai_like-${{ version }}.tar.gz
-  sha256: ec151f73eacf17476eda96481eb95815de0ec7c559eb7fe745d3589cfa3846f2
+  sha256: c328ab7b83cf2d90cc5791762cddfd7e7f2c898d1a23cfbc67df471d7c07195e
 
 build:
   number: 0
